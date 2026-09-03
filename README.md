@@ -152,6 +152,46 @@ $$T_1 = \frac{T \times A}{A + B}$$
 
 ---
 
+---
+
+## 🧵 Supplementary Section — Safety Wire & Turnbuckle Deep Dive
+(from follow-up practice photos and discussion — not in the original document, but likely to come up)
+
+### Vocabulary — Turnbuckle Assembly
+
+| Chinese | Pinyin | English |
+|---|---|---|
+| 鬆緊套 / 螺旋扣 | sōng jǐn tào / luó xuán kòu | turnbuckle |
+| 端末接頭 | duān mò jiē tóu | turnbuckle terminal / eye end / fork end |
+| 鋼索 / 操縱鋼索 | gāng suǒ / cāo zòng gāng suǒ | control cable |
+| 保險絲 | bǎo xiǎn sī | safety wire / lockwire |
+| 不鏽鋼保險絲 | bù xiù gāng bǎo xiǎn sī | stainless steel safety wire |
+| 保險絲鉗 | bǎo xiǎn sī qián | safety wire pliers |
+| 保險孔 | bǎo xiǎn kǒng | safety wire hole |
+
+### Wire Diameter Standards (why different sizes exist)
+
+| Size | Typical use | Why |
+|---|---|---|
+| **0.020"** | Electrical connectors, fire-warning valves/switches | Small delicate fittings; thin wire avoids damage |
+| **0.032"** | General-purpose nut/bolt safety wiring (most common default size) | Standard strength/flexibility balance |
+| **0.040"–0.041"** | Turnbuckles, larger or higher-stress fasteners | Needs more holding strength; common in practice, but always confirm against the specific maintenance manual — not a universal fixed rule |
+
+**Rule of thumb:** bigger/higher-stress fastener → thicker (stiffer) wire. Too thin = risk of snapping under vibration; too thick = won't fit small holes or may damage delicate parts.
+
+### Why Stainless Steel (not other metals)
+- **Strong but bendable** — holds fasteners against vibration, yet a mechanic can still hand-twist it with pliers.
+- **Corrosion-resistant (CRES)** — survives fuel, hydraulic fluid, moisture, temperature swings without rusting/weakening.
+- **Non-stretch** — stays taut once twisted; won't loosen over time the way a stretchier wire would.
+- **Softer than the fastener metal** — won't gouge or wear down the bolt/nut over years of vibration contact.
+
+### Replacement / Inspection Rule (not flight-count based!)
+- Safety wire is **single-use** — replaced *every time* the fastener is opened for any reason (inspection, part swap, adjustment). Never reused.
+- It's checked **visually at every routine maintenance inspection**, not on a fixed "every X flights" schedule.
+- The wire pattern itself acts as a quick visual check — if it looks twisted/intact, the fastener hasn't been tampered with or vibrated loose.
+
+---
+
 ## 📌 Study Tips
 1. Focus first on the **Core Recurring Vocabulary table** at the top — those words appear in almost every question.
 2. The **torque formula** (Q33/34) and **AN bolt code math** (Q57/58) are calculation questions — practice the math, not just the words.
