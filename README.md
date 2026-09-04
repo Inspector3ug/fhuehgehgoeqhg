@@ -1,199 +1,182 @@
-# 丙級飛機修護 (Class-C Aircraft Maintenance) — Vocabulary & Concept Guide
-
-This is a technical certification exam prep sheet — **工作項目01 飛機修護基礎技術** = "Work Item 01: Basic Aircraft Maintenance Techniques." It's genuinely hard, even for native Chinese speakers, because it's trade-specific vocabulary. Below is every key term broken down so you can study it like flashcards.
-
----
-
-## 🔩 Core Recurring Vocabulary (learn these first — they repeat constantly)
-
-| Chinese | Pinyin | English | Notes |
-|---|---|---|---|
-| 螺絲 | luó sī | screw | general term |
-| 螺桿 | luó gǎn | bolt | the shaft with threads |
-| 螺帽 | luó mào | nut | screws onto a bolt |
-| 螺牙 / 螺紋 | luó yá / luó wén | thread (of a screw) | the spiral ridge |
-| 扳手 | bān shǒu | wrench | tool for turning nuts/bolts |
-| 套筒 | tào tǒng | socket | wrench attachment |
-| 螺絲刀 / 起子 | luó sī dāo / qǐ zi | screwdriver | |
-| 扭力 | niǔ lì | torque | rotational force |
-| 保險絲 | bǎo xiǎn sī | safety wire | wire used to lock fasteners so they don't loosen |
-| 鉚釘 | mǎo dīng | rivet | metal fastener, hammered/pressed to join metal sheets |
-| 起落架 | qǐ luò jià | landing gear | |
-| 拖機 | tuō jī | to tow the aircraft | |
-| 輪檔 | lún dǎng | wheel chock | block placed by tires to stop rolling |
-| 千斤頂 | qiān jīn dǐng | jack (lifting device) | |
-| 游標卡尺 | yóu biāo kǎ chǐ | vernier caliper | precision measuring tool |
-| 開口銷 | kāi kǒu xiāo | cotter pin | split pin for locking |
-| 修護手冊 | xiū hù shǒu cè | maintenance manual | |
+# Class-C Aircraft Maintenance (丙級飛機修護) — English Study Guide
+*Chinese terms included in parentheses for cross-reference with your teacher/textbook*
 
 ---
 
-## 📄 Page 1 (Q1–14)
+## 🔩 Core Vocabulary (learn these first)
 
-**Topic: Safety-wiring bolts, unwinding tools, wrench types**
-
-- 鬆緊套 (sōng jǐn tào) — **turnbuckle** (a tensioning device); 保險方法 (bǎo xiǎn fāng fǎ) = "safety/locking method"
-  - Q1/Q4: types of wire-wrapping patterns — 單線單保 (single-wire single-wrap), 雙線交叉保 (double-wire cross-wrap), etc. These are just naming the *pattern* of wire wrapping.
-- Q2: 輪檔 (wheel chocks) — correct placement: **一前一後** (one in front, one behind) the wheel, with the chock rope **placed between the main wheels** (置於飛機兩主輪之間).
-- Q3: 搖弓 (yáo gōng) = **ratchet drill/brace**; 起子頭 (bit) should be **垂直 (vertical/perpendicular)** to the skin (蒙皮 méng pí = aircraft skin) when drilling, to avoid damaging screws.
-- Q5: 鬆緊套保險後 (after safety-wiring a turnbuckle), the wire tail must wrap **at least 4 turns** (四周) — per CAA rules, actually 4.5+ turns.
-- Q6–8: wire gauge sizes (**0.020", 0.032", 0.041", 0.045"** — read as inches) for different fastener types (electrical connectors, fire warning switches/valves).
-- Q9–10: How to finish twisted double-strand safety wire — end should **curl inward** (需向內捲起) to avoid vibration damage; 0.032" wire should have **8–10 twists per inch**.
-- Q11: 開口銷 (cotter pin) commonly used on **城堡螺帽** (castle nut / castellated nut).
-- Q12–16: Tool names in English — this is a **vocabulary matching set**, memorize these pairs:
-  | Chinese | English |
-  |---|---|
-  | 雙開口扳手 | open/end wrench |
-  | 梅花扳手 | box wrench |
-  | 標準套筒 | standard socket |
-  | 一字螺絲刀 | flat screwdriver |
-  | 十字螺絲刀 | Phillips screwdriver |
-  | 快速旋轉柄 | speed handle |
-  | 長套筒 | deep socket |
-  | 螺旋千斤 | screw jack |
-
----
-
-## 📄 Page 2 (Q15–26)
-
-- Q17–18: 套筒 (sockets) are best for **screwing/unscrewing nuts and bolts** (螺帽螺桿); inside a fuel tank (燃油箱), flashlights must be **explosion-proof** (防爆 fáng bào) — NOT just "not requiring battery changes."
-- Q19: Metric tool sizes are marked in **mm** (公制 = metric system).
-- Q20: Best tool for pipe/tube fittings (管路接頭) = **開口扳手** (open wrench).
-- Q21: Ratchet wrench (棘輪扳手 jí lún bān shǒu) advantage = works in **forward and reverse** (正反方向).
-- Q22: Box wrench (梅花扳手) is best for **removing/installing nuts and bolts**.
-- Q23–24: Bolt/screw numbering codes — memorize:
-  | Code | Meaning |
-  |---|---|
-  | MS | Military Standard (美軍標準) |
-  | NAS | National Aerospace Standard (航空及太空標準) |
-  | AN | Airforce Navy (美國海空軍標準) |
-  | BACB | Boeing Aircraft Corporation Bolt (波音標準) |
-  | NSA | Normalisation Sud Aviation (French standard) |
-- Q25–26: 保險螺桿 (Fuse Bolt) = a bolt designed to **snap automatically** when stress exceeds design limits (used on wings/landing gear/engine mounts); 剪力螺桿 (shear bolt) = snaps under excess **operating force** on control linkages.
+| English | Chinese | Pinyin |
+|---|---|---|
+| screw | 螺絲 | luó sī |
+| bolt | 螺桿 | luó gǎn |
+| nut | 螺帽 | luó mào |
+| thread (of a screw) | 螺牙 / 螺紋 | luó yá / luó wén |
+| wrench | 扳手 | bān shǒu |
+| socket | 套筒 | tào tǒng |
+| screwdriver | 螺絲刀 / 起子 | luó sī dāo / qǐ zi |
+| torque | 扭力 | niǔ lì |
+| safety wire / lockwire | 保險絲 | bǎo xiǎn sī |
+| rivet | 鉚釘 | mǎo dīng |
+| landing gear | 起落架 | qǐ luò jià |
+| to tow the aircraft | 拖機 | tuō jī |
+| wheel chock | 輪檔 | lún dǎng |
+| jack (lifting device) | 千斤頂 | qiān jīn dǐng |
+| vernier caliper | 游標卡尺 | yóu biāo kǎ chǐ |
+| cotter pin | 開口銷 | kāi kǒu xiāo |
+| maintenance manual | 修護手冊 | xiū hù shǒu cè |
+| turnbuckle | 鬆緊套 / 螺旋扣 | sōng jǐn tào / luó xuán kòu |
+| control cable | 鋼索 / 操縱鋼索 | gāng suǒ / cāo zòng gāng suǒ |
+| safety wire pliers | 保險絲鉗 | bǎo xiǎn sī qián |
 
 ---
 
-## 📄 Page 3 (Q27–38)
+## Tool Names (English ↔ Chinese matching — this is directly tested)
 
-- Q27: Near the **magnetic compass** (磁羅盤), use **non-magnetic bolts** (無磁性螺桿) so they don't interfere with the compass needle.
-- Q28: ATA Chapter **20** = standard practices (safety wiring, torque data, bonding, plumbing, control cables).
-- Q29: TORQUE WRENCH = 扭力扳手 (torque wrench).
-- Q30: 城堡螺帽 (castle nut) is the nut type that a cotter pin goes through.
-- Q31: In high-heat areas, coat bolt threads with **graphite grease** (石墨油膏) before installing nuts, to prevent seizing — other greases evaporate at high temp.
-- Q32: Nuts/bolts/fittings of different materials require different **torque values**, measured with a **torque wrench**.
-- Q33–34: **Torque extension formula** — memorize this:
+| English | Chinese |
+|---|---|
+| Open/end wrench | 雙開口扳手 |
+| Box wrench | 梅花扳手 |
+| Standard socket | 標準套筒 |
+| Deep socket | 長套筒 |
+| Flat screwdriver | 一字螺絲刀 |
+| Phillips screwdriver | 十字螺絲刀 |
+| Speed handle | 快速旋轉柄 |
+| Screw jack | 螺旋千斤 |
+| Ratchet wrench | 棘輪扳手 |
+| Torque wrench | 扭力扳手 |
+
+---
+
+## Safety Wire (Lockwire) — Full Breakdown
+
+### Sizes and where each is used
+
+| Size | Category | Real-world use |
+|---|---|---|
+| **0.020"** | Thin | Small electrical connector plugs, fire-warning valves/switches, instrument panel fittings — low-stress, small holes, delicate parts |
+| **0.032"** | **Medium (most common default)** | General-purpose nuts and bolts everywhere on the aircraft |
+| **0.040"–0.041"** | Thick | Turnbuckles (control cable tensioners) and propeller mounting bolts — higher mechanical stress |
+
+Your teacher's memory hook: **粗中細 (cū zhōng xì)** = "thick–medium–thin." 0.032" is the "middle" size — strong enough for general use, not so thick it damages delicate parts.
+
+### Why stainless steel (not copper)
+- **Strong but bendable** — holds the fastener under vibration, but can still be hand-twisted with pliers.
+- **Corrosion-resistant (CRES)** — survives fuel, hydraulic fluid, moisture, temperature swings without rusting.
+- **Non-stretch** — stays tight once twisted.
+- **Softer than the fastener metal** — won't gouge or wear the bolt/nut.
+- Copper is avoided: it work-hardens (gets brittle) when twisted, and can crack under aircraft vibration.
+
+### Replacement / inspection rule
+- Safety wire is **single-use** — always replaced when a fastener is opened, never reused.
+- Checked **visually at every routine maintenance inspection**, not on a fixed flight-count schedule.
+
+### Technique (same for all sizes — just scaled)
+1. Thread wire through the drilled hole(s) in the fastener(s).
+2. Twist tightly with safety-wire pliers — **8–10 twists per inch** is the standard rule from your textbook.
+3. Always pull/wrap in the **tightening direction** — so if the fastener tries to loosen, it pulls against the wire.
+4. Finish the end by curling it **inward** (not outward) to avoid snagging or vibration damage.
+5. Leave a small twisted "pigtail" at the end.
+
+**On thinner 0.020" wire:** same core technique, but use lighter pressure (thin wire snaps more easily), and it's usually wrapped around small locking rings/tabs instead of hex nuts.
+
+---
+
+## Turnbuckle Assembly — Part Names
+
+| Part | English | Chinese |
+|---|---|---|
+| The whole tensioning barrel device | Turnbuckle | 鬆緊套 |
+| The threaded rod/eye on each end | Turnbuckle terminal / eye end / fork end | 端末接頭 |
+| The braided cable running through it | Control cable | 鋼索 |
+| The small hole in the barrel for wire | Safety wire hole | 保險孔 |
+
+**How it works:** cable runs into each end of the turnbuckle barrel → rotating the barrel adjusts cable tension → once tension is correct, the barrel is locked in place with safety wire so it can't spin loose from vibration.
+
+**Real-world minimum wrap:** at least **4.5 turns** (rule from your teacher/CAA); textbook answer choice used "4 turns" as the nearest option — always match whatever your textbook prints as the answer.
+
+---
+
+## Torque Wrench Extension Formula (calculation question, not vocab)
+
+When adding an extension handle to a torque wrench:
+
 $$T_1 = \frac{T \times A}{A + B}$$
-  - T = original torque value, A = original wrench length, B = extension length, T₁ = corrected torque
-  - Example (Q34): T=160, A=12, B=3 → T₁ = 160×12/(12+3) = **128** in-lbs
-- Q35: 基準點 (datum/reference point) to center of gravity distance = **MAC%** (Mean Aerodynamic Chord percentage); CG = Center of Gravity.
-- Q36: Aircraft **weighing** (稱重) must occur every **2 years** per regulation.
-- Q37: 空重 (empty weight) + fuel/cargo/baggage + crew/passengers = **總重量 (gross weight / 總重)**.
-- Q38: Moving the aircraft on the ground = **拖機 (towing)**.
+
+- T = original torque value
+- A = original wrench length
+- B = extension length
+- T₁ = corrected torque reading
+
+**Example:** T = 160 in-lbs, A = 12", B = 3" → T₁ = 160 × 12 / (12+3) = **128 in-lbs**
 
 ---
 
-## 📄 Page 4 (Q39–51)
+## AN Bolt Code System (calculation, not vocab)
 
-**Topic: Ground handling / towing safety**
+- **Diameter code ÷ 16** = diameter in inches (e.g., code 12 → 12/16 = 3/4")
+- **Length code ÷ 8** = length in inches (e.g., code 9 → 9/8 = 1⅛")
 
-- Q39: Vehicle speed limit on the ramp (停機坪) = **5–15 km/h**.
-- Q40: When towing normally, all landing gear safety pins (安全插銷) **must all be inserted** (必須全部插妥).
-- Q41: While towing, if you're the mechanic in the cockpit and see another aircraft slowly crossing the taxiway ahead — you should **continue towing** (per this answer key), after ground crew confirms tower clearance.
-- Q42: When parking outdoors, nose should point **into the wind** (對正風向) — reduces risk since aircraft have "headwind" lift characteristics.
-- Q43–46: Taxiway intersection **light signals** during towing:
-  - Flashing white = proceed with extra caution
-  - Flashing red = stop, path not yet clear
-  - Steady red = do not tow / stop
-  - Alternating red/green = proceed cautiously
-- Q47: Towing an aircraft requires **minimum 4 people**: driver, cockpit operator, plus left/right wingtip + tail watchers.
-- Q48: If aircraft slides off the runway onto soft ground, use **air bags/cushions (氣墊)** to lift it before towing.
-- Q49: Before jacking (頂舉), check total aircraft weight to avoid **exceeding weight limits and damaging the structure**.
-- Q50: When jacking to change a wheel, insert safety pins in all gear to **prevent the gear from retracting** (防止起落架收上).
-- Q51: **Vernier caliper reading practice** (精度 1/50mm) — answer worked out to **43.12 mm**. (This is a measurement-reading skill, not vocabulary — practice reading the scale directly.)
+Bolt standard codes:
+| Code | Standard |
+|---|---|
+| MS | Military Standard |
+| NAS | National Aerospace Standard |
+| AN | Air Force–Navy Standard |
+| BACB | Boeing Aircraft Corporation Bolt |
+| NSA | French Standard (Normalisation Sud Aviation) |
 
 ---
 
-## 📄 Page 5 (Q52–62)
+## Ground Handling / Towing
 
-- Q52: Another vernier caliper reading (精度 1/20mm) → **9.15 mm**.
-- Q53: Bolts are installed **top to bottom** (由上往下) as standard practice.
-- Q54: AN bolt with **no hole drilled** in the shaft end gets an "**A**" added after the part number (e.g., AN3-5A).
-- Q55: AN bolt with a hole drilled in the **head** (for safety wire) gets "**H**" after the material code (e.g., AN5C"H"-7).
-- Q56: The marking on a bolt head indicates its **material** (製作的材料).
-- Q57–58: **AN bolt size-code math** — memorize this system:
-  - Diameter code ÷ 16 = diameter in inches (e.g., code 12 → 12/16 = 3/4")
-  - Length code ÷ 8 = length in inches (e.g., code 9 → 9/8 = 1⅛")
-- Q59: AN32-26A = cadmium-plated alloy steel bolt, used with **self-locking nuts (自鎖螺帽)**.
-- Q60–61: Self-locking nut temperature limits: low-temp type ≤ **250°F**; high-temp type (metal all the way through, slotted) ≤ **550°F**.
-- Q62: Nut-on-nut locking device = **LOCK NUT / JAM NUT** (鎖緊螺帽).
+| English | Chinese |
+|---|---|
+| tow the aircraft | 拖機 |
+| ramp / apron | 停機坪 |
+| wheel chock | 輪檔 |
+| taxiway | 滑行道 |
+| jacking (lifting the aircraft) | 頂舉 |
+| gross weight | 總重量 |
+| empty weight | 空重 |
 
----
-
-## 📄 Page 6 (Q63–73)
-
-- Q63: Cotter pin (開口銷) = **COTTER PIN** in English.
-- Q64: Max length for safety-wiring multiple bolts together with one strand = **24 inches**.
-- Q65: When safety-wiring multiple bolts, always pull the wire toward the **tightening direction** (鎖緊的方向).
-- Q66: After installing self-lock nuts, the bolt must protrude past the nut by at least **1/32 inch**.
-- Q67: **"REMOVE BEFORE FLIGHT"** red warning flag = **"飛行前取下" (remove before flight)**.
-- Q68: **FOD** = Foreign Object Damage = **外物損傷** (damage caused by debris/foreign objects).
-- Q69: Tool discipline rule: only take tools **out of the toolbox as needed, into a proper container, clean and return them after use**.
-- Q70: On Airbus aircraft (uses metric mostly), before working: **read the work order / maintenance manual carefully** before grabbing tools (don't assume from experience).
-- Q71–73: **Rivet head markings** (indicate material):
-  | Marking | Material | Code |
-  |---|---|---|
-  | flat/no mark | pure aluminum | — |
-  | one dot | AD rivet | 2117 |
-  | raised dot | D rivet | 2017 |
-  | recessed circle | KE rivet | 7050 |
-  | two dashes | DD rivet | 2024 |
-  | plus sign | D rivet (copper-colored) | 5056 |
-  | no head marking, brass/copper rivet | copper rivet | — |
+**Key facts:**
+- Ramp speed limit: **5–15 km/h**
+- Minimum tow crew: **4 people** (driver, cockpit operator, 2 wingtip/tail watchers)
+- All landing gear safety pins must be **fully inserted** while towing (prevents accidental gear retraction)
+- Aircraft weighing required every **2 years**
 
 ---
 
----
+## Rivet Head Codes (memorize as a set)
 
-## 🧵 Supplementary Section — Safety Wire & Turnbuckle Deep Dive
-(from follow-up practice photos and discussion — not in the original document, but likely to come up)
-
-### Vocabulary — Turnbuckle Assembly
-
-| Chinese | Pinyin | English |
+| Head marking | Rivet type | Material code |
 |---|---|---|
-| 鬆緊套 / 螺旋扣 | sōng jǐn tào / luó xuán kòu | turnbuckle |
-| 端末接頭 | duān mò jiē tóu | turnbuckle terminal / eye end / fork end |
-| 鋼索 / 操縱鋼索 | gāng suǒ / cāo zòng gāng suǒ | control cable |
-| 保險絲 | bǎo xiǎn sī | safety wire / lockwire |
-| 不鏽鋼保險絲 | bù xiù gāng bǎo xiǎn sī | stainless steel safety wire |
-| 保險絲鉗 | bǎo xiǎn sī qián | safety wire pliers |
-| 保險孔 | bǎo xiǎn kǒng | safety wire hole |
-
-### Wire Diameter Standards (why different sizes exist)
-
-| Size | Typical use | Why |
-|---|---|---|
-| **0.020"** | Electrical connectors, fire-warning valves/switches | Small delicate fittings; thin wire avoids damage |
-| **0.032"** | General-purpose nut/bolt safety wiring (most common default size) | Standard strength/flexibility balance |
-| **0.040"–0.041"** | Turnbuckles, larger or higher-stress fasteners | Needs more holding strength; common in practice, but always confirm against the specific maintenance manual — not a universal fixed rule |
-
-**Rule of thumb:** bigger/higher-stress fastener → thicker (stiffer) wire. Too thin = risk of snapping under vibration; too thick = won't fit small holes or may damage delicate parts.
-
-### Why Stainless Steel (not other metals)
-- **Strong but bendable** — holds fasteners against vibration, yet a mechanic can still hand-twist it with pliers.
-- **Corrosion-resistant (CRES)** — survives fuel, hydraulic fluid, moisture, temperature swings without rusting/weakening.
-- **Non-stretch** — stays taut once twisted; won't loosen over time the way a stretchier wire would.
-- **Softer than the fastener metal** — won't gouge or wear down the bolt/nut over years of vibration contact.
-
-### Replacement / Inspection Rule (not flight-count based!)
-- Safety wire is **single-use** — replaced *every time* the fastener is opened for any reason (inspection, part swap, adjustment). Never reused.
-- It's checked **visually at every routine maintenance inspection**, not on a fixed "every X flights" schedule.
-- The wire pattern itself acts as a quick visual check — if it looks twisted/intact, the fastener hasn't been tampered with or vibrated loose.
+| flat/no mark | pure aluminum | — |
+| one dot | AD rivet | 2117 |
+| raised dot | D rivet | 2017 |
+| recessed circle | KE rivet | 7050 |
+| two dashes | DD rivet | 2024 |
+| plus sign | D rivet | 5056 |
+| no marking, copper-colored | copper rivet | — |
 
 ---
 
-## 📌 Study Tips
-1. Focus first on the **Core Recurring Vocabulary table** at the top — those words appear in almost every question.
-2. The **torque formula** (Q33/34) and **AN bolt code math** (Q57/58) are calculation questions — practice the math, not just the words.
-3. The **towing light signals** (Q43–46) and **rivet head codes** (Q71–73) are memorization tables — flashcard these separately.
-4. Don't worry about reading fluency here — this is trade jargon that even native speakers memorize specifically for this exam, not general reading comprehension.
+## Misc. Important Terms
+
+| English | Chinese |
+|---|---|
+| FOD (Foreign Object Damage) | 外物損傷 |
+| "Remove Before Flight" tag | 飛行前取下 |
+| self-locking nut | 自鎖螺帽 |
+| lock nut / jam nut | 鎖緊螺帽 |
+| castle nut | 城堡螺帽 |
+| non-magnetic bolt (used near compass) | 無磁性螺桿 |
+| fuse bolt (snaps under excess stress) | 保險螺桿 |
+| shear bolt (snaps under excess operating force) | 剪力螺桿 |
+| explosion-proof flashlight (required in fuel tanks) | 防爆手電筒 |
+
+---
+
+## Certification Level Reminder
+Taiwan's trade certification ranking: **甲級 (Class A) > 乙級 (Class B) > 丙級 (Class C)**
+Your current exam (丙級) is the **entry-level** certification — not the highest.
